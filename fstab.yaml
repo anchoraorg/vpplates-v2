@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://https://author-p119552-e1901272.adobeaemcloud.com/bin/franklin.delivery/anchoraorg/vpplates-v2/main"
+    url: "https://author-p119552-e1919977.adobeaemcloud.com/bin/franklin.delivery/anchoraorg/vpplates-v2/main"
     type: "markup"
     suffix: ".html"
